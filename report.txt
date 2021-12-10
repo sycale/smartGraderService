@@ -1,0 +1,9 @@
+filename,errors,failures
+test_2	Success
+test_1	Success
+test_2	Success
+test_1	Success
+test_2	Success
+test_1	Success
+test_2	Success
+test_1, 	Errors: 0,	Failures: 1
